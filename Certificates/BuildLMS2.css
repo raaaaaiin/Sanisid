@@ -1,0 +1,17 @@
+.MPC_DESCRIPTION_CSS
+{
+    font-size: 14px;
+    height: 80px;
+    line-height: 20px;
+    word-break: break-word;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -ms-box-orient: vertical;
+    box-orient: vertical;
+    -moz-line-clamp: 4;
+    -ms-line-clamp: 4;
+    -webkit-line-clamp: 4;
+    line-clamp: 4;
+    overflow: hidden;
+}

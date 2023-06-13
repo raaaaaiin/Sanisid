@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffd166be-d5e1-491b-820d-8e50907c5217" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/COMMITMENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/get_oauth_token.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-af.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-ar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-az.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-ba.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-be.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-bg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-ca.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-ch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-cs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-da.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-el.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-eo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-es.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-et.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-fa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-fi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-fo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-fr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-gl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-he.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-hi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-hr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-hu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-hy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-it.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-ja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-ka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-ko.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-lt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-lv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-mg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-ms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-nb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-nl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-pt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-pt_br.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-ro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-sk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-sl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-sr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-sv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-tl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-tr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-uk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-vi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-zh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/language/phpmailer.lang-zh_cn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/src/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/src/OAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/src/PHPMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/src/POP3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/PHPMailer-6.2.0/src/SMTP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/appointmentBackup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appointment/appointmentv1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearance_Tab/Building.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearance_Tab/BusinessCert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearance_Tab/CutTree.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearance_Tab/EducationalAssistance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearance_Tab/Excavation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearance_Tab/Fencing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearance_Tab/GoodMoral.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearance_Tab/Indigency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearance_Tab/SingleParent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearance_Tab/Survey.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BUILDER_Clearance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayCertificate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceBuilding.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceBusiness.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceCutTree.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceEduc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceExcavation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceFencing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceIndigen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceRecord.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceSingleparents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceSurvey.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/Clearanceraw.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/OfficialsDesign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/OfficialsTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/V1BarangayClearanceOrig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Creator/BUILDER_Clearance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Creator/OfficialsDesign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Creator/OfficialsModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Creator/OfficialsTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/Creator/indexCreation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/indexCreation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/indexDesign.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayClearance/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BarangayOfficials/updatenew.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Certificates/BuildLMS2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Certificates/certificate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clients/AppointmentCreation/indexController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clients/AppointmentCreation/index_view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profile/Profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profile/ProfileViewCss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration/pictureViewer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resident/residentList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resident/residentRegistration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobi/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobi/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobi/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobi/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobi/settings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spinner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SanIsidro/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SanIsidro/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Clearances/CertificateofIndigency.php" beforeDir="false" afterPath="$PROJECT_DIR$/BarangayClearance/Clearances/BarangayClearanceIndigency.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Creator/CreateBarangayClearance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Creator/CreateBuildingPermit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Creator/CreateBusinessPermit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Creator/CreateCertificateOfIndigency.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Creator/CreateCuttingTrees.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Creator/CreateElectricalPermit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Creator/CreateFencingPermit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Creator/CreateFilmMakingPermit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Creator/CreateTransientInformation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/Creator/CreateWorkingPermit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/BarangayClearance/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/js/html2canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/BarangayClearance/js/html2canvas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BarangayClearance/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/BarangayClearance/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/Communication/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication/add1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Communication/add1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication/button.php" beforeDir="false" afterPath="$PROJECT_DIR$/Communication/button.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication/category_option.php" beforeDir="false" afterPath="$PROJECT_DIR$/Communication/category_option.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication/css/positioning.css" beforeDir="false" afterPath="$PROJECT_DIR$/Communication/css/positioning.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Communication/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/Communication/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication/edit_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/Communication/edit_category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communication/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Communication/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/homepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/positioning.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/positioning.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/Css/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resident/Edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/Resident/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resident/floader.php" beforeDir="false" afterPath="$PROJECT_DIR$/Resident/floader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resident/floader1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Resident/floader1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resident/profile-final.php" beforeDir="false" afterPath="$PROJECT_DIR$/Resident/profile-final.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resident/profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/Resident/profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resident/resident-select-father.php" beforeDir="false" afterPath="$PROJECT_DIR$/Resident/resident-select-father.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resident/resident-select-mother.php" beforeDir="false" afterPath="$PROJECT_DIR$/Resident/resident-select-mother.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resident/resident.php" beforeDir="false" afterPath="$PROJECT_DIR$/Resident/resident.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnderDev.php" beforeDir="false" afterPath="$PROJECT_DIR$/UnderDev.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backheader.php" beforeDir="false" afterPath="$PROJECT_DIR$/backheader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/details.php" beforeDir="false" afterPath="$PROJECT_DIR$/details.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules.php" beforeDir="false" afterPath="$PROJECT_DIR$/modules.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2G3tMifOUXUEMyQZ8Eh8OyRv3tF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/xampp/htdocs/SanIsidro/BarangayOfficials",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\SanIsidro\BarangayOfficials" />
+      <recent name="C:\xampp\htdocs\SanIsidro\BarangayClearance\Clearances" />
+      <recent name="C:\xampp\htdocs\SanIsidro\Resident" />
+      <recent name="C:\xampp\htdocs\SanIsidro\BarangayClearance\Creator" />
+      <recent name="C:\xampp\htdocs\SanIsidro\BarangayClearance" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\SanIsidro" />
+      <recent name="C:\xampp\htdocs\SanIsidro\Resident\mobi" />
+      <recent name="C:\xampp\htdocs\SanIsidro\Appointment" />
+      <recent name="C:\xampp\htdocs\SanIsidro\Registration" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffd166be-d5e1-491b-820d-8e50907c5217" name="Changes" comment="" />
+      <created>1665629048722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665629048722</updated>
+      <workItem from="1665629049901" duration="45000" />
+      <workItem from="1666093671340" duration="11901000" />
+      <workItem from="1666186821578" duration="4734000" />
+      <workItem from="1666416058766" duration="1134000" />
+      <workItem from="1666459548668" duration="13000" />
+      <workItem from="1666526732660" duration="10785000" />
+      <workItem from="1666575484383" duration="328000" />
+      <workItem from="1666617143126" duration="3653000" />
+      <workItem from="1666745535957" duration="114000" />
+      <workItem from="1666787636036" duration="469000" />
+      <workItem from="1666788601702" duration="7039000" />
+      <workItem from="1666854291203" duration="6121000" />
+      <workItem from="1667012354865" duration="4399000" />
+      <workItem from="1667019423601" duration="595000" />
+      <workItem from="1667072861527" duration="1853000" />
+      <workItem from="1667232656129" duration="3167000" />
+      <workItem from="1667235886124" duration="1231000" />
+      <workItem from="1667663174914" duration="5570000" />
+      <workItem from="1668093341326" duration="4238000" />
+      <workItem from="1668216723967" duration="60687000" />
+      <workItem from="1668404620370" duration="6023000" />
+      <workItem from="1668431891944" duration="1685000" />
+      <workItem from="1668435467814" duration="115000" />
+      <workItem from="1668441016019" duration="1897000" />
+      <workItem from="1669995775301" duration="18954000" />
+      <workItem from="1670489269957" duration="6987000" />
+      <workItem from="1670799733138" duration="35444000" />
+      <workItem from="1671010757145" duration="18784000" />
+      <workItem from="1671122240214" duration="20216000" />
+      <workItem from="1671192078177" duration="7124000" />
+      <workItem from="1671250091598" duration="27738000" />
+      <workItem from="1671363269074" duration="15737000" />
+      <workItem from="1673232909992" duration="1769000" />
+      <workItem from="1674611914551" duration="2816000" />
+      <workItem from="1674805664786" duration="14000" />
+      <workItem from="1675860718767" duration="594000" />
+      <workItem from="1675991998081" duration="12803000" />
+      <workItem from="1676132724594" duration="24233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
